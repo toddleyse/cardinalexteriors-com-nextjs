@@ -1,0 +1,744 @@
+{
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/logo.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c14373b4b63f55ed7d346f19d459214863670fef-182x160-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/banBg-min.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ef9e8f10d10998fcf7ccb2d691d6eabeac38d419-1920x1440-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/choose-bg.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-76aa5644cb90588572355208b558845ff56fe5a5-1920x1100-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/plugins/revslider/public/assets/assets/dummy.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-81668d396da22832d75a986407ff10035e0d5899-1x1-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Group-1000004290-1.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ce0c6b6d51f66ad63e009b17e20129940289d4b2-1921x1085-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/icon-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b93ef45535eab07e9c509b554347ba5107fc7c5e-70x71-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/icon-2.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1baa5b55e1d804d10f4ee361a470ba592aa0b76e-70x71-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/icon-4.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1948be82f39f9b1b56f831eba31d44a98d94f650-70x71-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Copy-of-20230710_134912-1536x2048.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1d1f63e524e6c3d6fdb65edf0e3c7e46a5a32a1c-1536x2048-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-eceaca42d6fbc1b022592e4a787f446c6c418549-355x426-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-2.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-085756f3217e6384f46c053b682477332df6a7c0-355x426-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-3.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ef33fb670d9eef7d4ed004f603473d904a1c2bf2-355x426-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-4.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-eaa43cde5bfc6e10c9fc6e223daa9d40079bc120-355x427-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/icon-3.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-61294e90c254d9a3e53cc1fde9f4af28522cf050-70x71-png"
+    }
+  },
+  "https://cdn.ywxi.net/meter/cardinalexteriors.com/205.svg?ts=1769607399659&l=en": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5b0c4660b470b32bb4fec4b59615d9c6a453b057-92x38-svg"
+    }
+  },
+  "https://www.gstatic.com/recaptcha/api2/logo_48.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4736508c795667dcea21f8d864233031223b7832-48x48-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-1-5.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-065e019e5255c2f2671ce2a6048094c398a038be-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/01/Untitled-19.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b867481d0b8544475d11b15e269b4038edff06d6-1080x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/squirrel-on-roof-1.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-218102145f146f04fa955c118c505cdb8083b0da-1440x1080-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/01/Cardinal-Website-Replacement-Photos-2-16.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3d22ada8b9de29bf8f5417c658732d13ee5335fb-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/contact-bg.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c0fae517f1f3045a4d84f8f5d02d2fd1d7b80885-1920x850-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-1-3.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e8c07eb8d0f878cd285f69de16d7aa036495fdf5-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-13.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e411a38045d02e2972ecfdb7d0ee25913a9fcacb-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/insulation-2.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4e5c90346a6e8b3fc334a9374349a782c98a2426-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/deck-banner-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5547e9c7f86bcab41d81e60e1c9e9e175ed5a8ea-1920x500-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-17.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-55656552065cce651a4a29269d52dd4744d37a09-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-18.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ae9286c0e14ba7a22589c0e8faf12dee80f26354-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-21.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-76db12f3a020b8a74d2935a7c6fcf24a9be79f0c-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-5.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-dcc3ad7c4e123ae410de0f8cf743dccf6eb37ae3-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-1-6.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d9da39c9b3dc885d776044597e49a8aedf9cbc3a-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/service-2.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a800815b188f0767c7396ec7d4fad873cc9d42c8-450x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/Rectangle-9.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a74c73ecafdb4d77272e0cad92f22ecd4605af65-450x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/service-3.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-db6bf0669862573d9d16c31819e10231893569f2-450x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/service-banner.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-15ff77846528e17bd7b3f8addd38eb5d1e8c0bba-1920x500-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Ellipse-803.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4253d6f3c6544bd9be5820c10520bdf1731bc888-200x200-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/7009b2c7-6812-494b-a17b-fd0e215514db-transformed.jpeg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f9ba0e70d7eec31065e60aa6e55abdbd52dbba9a-1024x683-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/service-7.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-573d39ef8741b3d686b11d58830a4d564f38b745-450x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/Rectangle-10.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5e77529c47ccbc42c48850647606fc91483df81e-450x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Ellipse-805.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2c4243c825cbfa6d299fcbec683577204161dca9-200x200-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Ellipse-804.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-757ee7bc0419be4ba4b608fe5c54643a8a9f8b6e-200x200-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/Rectangle-8.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3c57aec6ea8a4b7d89cdfdcdc89fc11da73364e3-450x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/service-windows.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2056d02bf388ec29cc88f022876556f751bb7995-451x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/squirrel-on-roof.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-218102145f146f04fa955c118c505cdb8083b0da-1440x1080-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-1-9.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-144d4027ec48af74aa4a1ef1046c5d7bb3db2c63-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-19.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6d689b534682c7320795ed575aa9b9a41c2ec069-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-20.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-59ae991552d695557291c5b6e7fe07b283becaee-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-1-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e339c49520e433a760ecc06b41b6dbf4e3cb2747-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-9.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a41076fdbb56d52df1bb6af0a8143d30580877d1-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-8.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ac4da51514f1a367190b6e0f6649e06e0c501407-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-1-4.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-af3d514e2921cac59ed6d8d680491b131e58392f-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-14.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9edab071ba09907ccf9c45d52cb8231db93e77b0-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-15.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d1e3f1df813f72c757301df6d2c8ff297bcc7a64-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-1-10.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7cb5f43d4971940c1519f532c8b3b81ae3aeba65-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-3-5.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-18ea1286a29bc9c1f0e5f8725277107203279c02-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-22.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b9aa530dd2459a056dd851aab1ba6db0bf258061-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-3-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ad58827d6cbcbb75f27b682f48f4bf01d24659b4-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-3-2.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e8df6a12da797ff4b4b38355ba303622c837150c-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/insulation-banner-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0d21abe89a00ecb35bae3ccde551424a4b7bc6d0-1920x500-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/6-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-732e6c289320f1aca9c7762d19351878dc3ae7e7-1920x950-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Untitled-4-3.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c87aa10a3a63c8b3d7d66070a1d2d036f1366ded-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/4-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-49fa5b182d21faecb2b604b8105c184d06218c1f-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Untitled-3-18.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ed4acea5f44f5f97cc9a039afb235afaea50410e-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Cardinal-Service-Area.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-102b7bcbf249074212dcbcf8a974cd29bc19f98c-381x285-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0722-MedicineLake-1536x657.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-52dc42bdc097d3681965b8b58850dfe1aa568871-1536x657-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Maple_Plain_Library-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-56a469b7d0012e60be3af889e7766cb4dbab50ce-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/ServicesArea.jpeg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3c401d291a2755bc5a2ac1a1c4297fcb1f80c491-2560x1706-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Maplegrovech.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6787b70cb24ce2676f958024c42021336f3d3ca6-1528x788-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-5.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bf0ba1aa0293554ac9bcbe4491dfd6828406cf53-1200x840-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Long_Lake_MN-1536x874.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-88673788a05669ff4d66e7b079aa8b47850f9be7-1536x874-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Hopkins_MN_Mainstreet-1536x908.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b6f762d8c3567e40036c7ec976bfd4a461fa5476-1536x908-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/HanoverCityHall-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8eb9fe3f695dd5294097a9a8e5630620f979c9b5-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/roof-banner-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e41ea7dd1c32baa1a13acd4bcb50e6d23d7a8b50-1920x500-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/roof-2.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c72c43262cce0853d14e1bf8996983b31bd1be29-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-6.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-458c0c201a77b544cdaf3465d4726553ede8bfaf-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-1-8.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c062559d40a17f64c09a11f6c7b2abeb4a458725-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-10.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-50e15f1e8680258c3938990d6327a9b4f1496e58-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-11.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a9a99bd7d58c6f081814b360cd19eeef181d520b-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/6.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c943d4e9a5fa40533ee128fd003500ec0d39c7e0-1920x950-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/3.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2b764db88648fd3c4c1c6be71299ae976b77106b-1920x500-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-12.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a8af99a78a1059511166fb2ad7eec33cb6589126-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/5.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b99c609bba8109784dc4fd671ece8b6f2eb5b2c4-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/08/pexels-pixabay-53459-768x512.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d064034a5a01662bf403213473dc13ed90d7261e-768x512-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/10/attachment_3B_20filename_3Db9986ec0-33a5-4136-92fb-edb793da2eca-768x768.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-10a5bc05ee83bfa1896d3c7aabc516e4c7961dd1-768x768-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-26.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-70b4b86f286de39b990a815cca9eee78f22d8a25-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/iStock-1047694518-768x508.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f5bd06390948af9926ab04af72c82bfc29b7fabe-768x508-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/AdobeStock_465163660-768x432.jpeg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b764d7ee1a79efeb616dc6474819d6c65505513b-768x432-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/siding-banner-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-25e4e3bd1b0e2e5e9c0d1478ca695b62e06a2289-1920x500-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/about-banner.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6d55d61037e7fcca94ca5b26aa5ed5973db0a0b3-1920x500-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/banner.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d016da389d69fb60a7e46d30f44ccc10c8b022aa-1920x950-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-30.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-14e3a255a4a2d5406e8b94dda456fb3b0b02223f-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-29.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bba5d365631bb0ef2c595880ae0b5829e15bc59a-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-20.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-468119b1b96420fa0c6e3b28b75fe515f52b5762-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-21.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7c6e6daf963c3bd236de1a014d4c1fe7f60675e5-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-19.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-fa7fd94d5602a28c1feaf3fd45bfd48043f1704a-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-22.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ccc54b3034d671746b7066411a9cf8aba509bdba-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/08/pexels-pixabay-53459-300x200.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f609926fda20784485932b10ceacf008dbaec425-300x200-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/08/pexels-pixabay-53459-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ea7913568f89c6269b540875b2bcf5b8d26a0ab0-2560x1707-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/10/attachment_3B_20filename_3Db9986ec0-33a5-4136-92fb-edb793da2eca.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e197b837cc8aa3b907401425cf148e093becb046-1024x1024-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/10/attachment_3B_20filename_3Db9986ec0-33a5-4136-92fb-edb793da2eca-300x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-49cf01cffa3f3be093d80da4d4fa63bdc4db1bae-300x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Softball-Size-Hail-225x300.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-03f5ecbbb980d7a21162b6ebbf8837ea3cace2c9-225x300-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/St-Paul-And-Eastern-MN-Hail-Map-July-19-2024--768x488.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ae0cc2d0decab28b80ffc3cdd49f9b8825d522f4-768x488-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/iStock-1047694518-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0d263684caea4e49b992dd73dc9a32b8399d562e-2560x1694-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Storm-Southern-MN-768x632.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3deb55720f207102ea67464b62b8e84970c0c261-768x632-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/NW-Twin-Cities-Metro-and-Central-MN-Hail-Map-July-19-2024-768x694.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d2a6c77059c2ae822c5d516e7893b8c5d1cd742c-768x694-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/iStock-1047694518-300x199.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9f881e24d481d976a71ee09823239ff1f748f4e3-300x199-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/AdobeStock_465163660-scaled.jpeg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-70fcd41579f045d9514f73c9f86d470256a824b5-2560x1440-jpg"
+    }
+  }
+}
