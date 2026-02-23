@@ -1,0 +1,32 @@
+{
+  "name": "cardinalexteriors-com-nextjs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.3.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@mantine/core": "^7.15.0",
+    "@mantine/hooks": "^7.15.0",
+    "@tabler/icons-react": "^3.28.0",
+    "next-sanity": "^9.8.0",
+    "@sanity/image-url": "^1.1.0",
+    "@portabletext/react": "^3.2.0",
+    "postcss": "^8.4.49",
+    "postcss-preset-mantine": "^1.17.0",
+    "postcss-simple-vars": "^7.0.1",
+    "styled-components": "^6.1.0",
+    "sanity": "^3.72.0",
+    "@sanity/vision": "^3.72.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^15.3.0"
+  }
+}

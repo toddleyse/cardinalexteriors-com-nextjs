@@ -1,0 +1,366 @@
+{
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/logo.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c14373b4b63f55ed7d346f19d459214863670fef-182x160-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/banBg-min.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ef9e8f10d10998fcf7ccb2d691d6eabeac38d419-1920x1440-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/plugins/revslider/public/assets/assets/dummy.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-81668d396da22832d75a986407ff10035e0d5899-1x1-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/choose-bg.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-76aa5644cb90588572355208b558845ff56fe5a5-1920x1100-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Group-1000004290-1.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ce0c6b6d51f66ad63e009b17e20129940289d4b2-1921x1085-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/icon-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b93ef45535eab07e9c509b554347ba5107fc7c5e-70x71-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/icon-3.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-61294e90c254d9a3e53cc1fde9f4af28522cf050-70x71-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Copy-of-20230710_134912-1536x2048.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1d1f63e524e6c3d6fdb65edf0e3c7e46a5a32a1c-1536x2048-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-4.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-eaa43cde5bfc6e10c9fc6e223daa9d40079bc120-355x427-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/icon-2.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1baa5b55e1d804d10f4ee361a470ba592aa0b76e-70x71-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-2.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-085756f3217e6384f46c053b682477332df6a7c0-355x426-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-3.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ef33fb670d9eef7d4ed004f603473d904a1c2bf2-355x426-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/icon-4.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1948be82f39f9b1b56f831eba31d44a98d94f650-70x71-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-eceaca42d6fbc1b022592e4a787f446c6c418549-355x426-png"
+    }
+  },
+  "https://www.gstatic.com/recaptcha/api2/logo_48.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4736508c795667dcea21f8d864233031223b7832-48x48-png"
+    }
+  },
+  "https://cdn.ywxi.net/meter/cardinalexteriors.com/205.svg?ts=1769607399659&l=en": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5b0c4660b470b32bb4fec4b59615d9c6a453b057-92x38-svg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/shingle-master-company-certainteed-logo-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-acca1aa31ad3b44f2fc701186c258d24b8cc097a-275x273-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110249-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ec278daf902f951c8e981f95db19432e7776e004-413x405-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/simonton-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-41dbb5b3d429f46ee7d5b3bed1722630e0712856-750x182-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-30.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-14e3a255a4a2d5406e8b94dda456fb3b0b02223f-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110954-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2be70ccaa8ecb87d018bb27abdabb9d034ab2027-298x299-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110751-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3668e4ad8144fd0dc771eb5170984dd3b3321478-292x161-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110342-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5387352e3ed08b7c52c48b081a1839cb6f7d7ae2-458x400-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/asd-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a43f45558c04ff686a7e565f6f2a37669ffdeb54-368x328-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-20.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-468119b1b96420fa0c6e3b28b75fe515f52b5762-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-21.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7c6e6daf963c3bd236de1a014d4c1fe7f60675e5-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-29.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bba5d365631bb0ef2c595880ae0b5829e15bc59a-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-19.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-fa7fd94d5602a28c1feaf3fd45bfd48043f1704a-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/lp-preferred-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4da74288b00989720565fa9bd2ba2c74521a5cc3-550x454-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Nolan_leyse_Certificates_logos-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-82601fc69839d5142da202bb2cb3b86f587b1305-357x234-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110137-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5aca81705d6d479f5930ede3daa74f4ddb85d6d3-401x156-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-22.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ccc54b3034d671746b7066411a9cf8aba509bdba-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Copy-of-20230710_134912-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-eb96ce02e2086c91c99941b8138d609840288631-1920x2560-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Copy-of-20230710_134912-225x300.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f7e4cbf55c63f90bb2ea8ddf420b7640f4fd955b-225x300-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Copy-of-20230710_134912-768x1024.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-52af1a9546af3b39a694c16e3d9b2b9980a70c14-768x1024-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Copy-of-20230710_134912-1152x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-592727b731670c2c1ecf9525249925e5e67ab1eb-1152x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-1-250x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-84a7b7817a9e131e81112011a35b1dde4f6583ea-250x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-2-250x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d6610dffec56ddc18eeab79c5c8fb31eb3ba18b2-250x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-3-250x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3f51226ceaff11c999f8f00a0dc52e8aad2d0cc1-250x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-4-249x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bb44a39c3ee9ab87d097bd155b5e8cf272bf87a8-249x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/lp-preferred-removebg-preview-300x248.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-40ec438b31a13430a243cbecde4a8bbb5dd8a360-300x248-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110342-removebg-preview-300x262.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7963c82f7cd104a7eabded244b4f44601589d2a3-300x262-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110137-removebg-preview-300x117.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0e37ae5e0d03f6d4898804e2c2bc3ea0e69dbc19-300x117-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/asd-removebg-preview-300x267.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9aba3a08949be837f6ee70a4f924c1b053f88ee7-300x267-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Nolan_leyse_Certificates_logos-removebg-preview-300x197.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0cdc294e046361b18e7fcbdafbb2f16e9402c672-300x197-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/shingle-master-company-certainteed-logo-removebg-preview-150x150.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0ad6e773cce6c9d00f0bbf4c3535cdbfc44a5b54-150x150-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/shingle-master-company-certainteed-logo-removebg-preview-140x140.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d7c8aeac3c1ed36c65b24b361670ad3711d7a57c-140x140-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110954-removebg-preview-150x150.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7f1b6177a850a379091200265811194d7255fbee-150x150-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110954-removebg-preview-140x140.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4485bf045e0534e949e40309e675ff130fbd8db5-140x140-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110249-removebg-preview-300x294.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-09c1e967bc9fd2c84d9115a06c9074e0d65b0888-300x294-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/simonton-removebg-preview-300x73.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6ac7fb3866eea01b694b8b81b6bc528b05aaa43c-300x73-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/service-banner.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-15ff77846528e17bd7b3f8addd38eb5d1e8c0bba-1920x500-png"
+    }
+  }
+}
