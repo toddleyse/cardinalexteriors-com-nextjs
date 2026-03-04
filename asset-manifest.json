@@ -1,0 +1,4993 @@
+{
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/logo.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c14373b4b63f55ed7d346f19d459214863670fef-182x160-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/choose-bg.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-76aa5644cb90588572355208b558845ff56fe5a5-1920x1100-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/banBg-min.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ef9e8f10d10998fcf7ccb2d691d6eabeac38d419-1920x1440-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/icon-3.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-61294e90c254d9a3e53cc1fde9f4af28522cf050-70x71-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/plugins/revslider/public/assets/assets/dummy.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-81668d396da22832d75a986407ff10035e0d5899-1x1-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/icon-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b93ef45535eab07e9c509b554347ba5107fc7c5e-70x71-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/icon-2.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1baa5b55e1d804d10f4ee361a470ba592aa0b76e-70x71-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-3.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ef33fb670d9eef7d4ed004f603473d904a1c2bf2-355x426-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Group-1000004290-1.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ce0c6b6d51f66ad63e009b17e20129940289d4b2-1921x1085-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-4.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-eaa43cde5bfc6e10c9fc6e223daa9d40079bc120-355x427-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-2.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-085756f3217e6384f46c053b682477332df6a7c0-355x426-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-eceaca42d6fbc1b022592e4a787f446c6c418549-355x426-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/icon-4.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1948be82f39f9b1b56f831eba31d44a98d94f650-70x71-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Copy-of-20230710_134912-1536x2048.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1d1f63e524e6c3d6fdb65edf0e3c7e46a5a32a1c-1536x2048-jpg"
+    }
+  },
+  "https://cdn.ywxi.net/meter/cardinalexteriors.com/205.svg?ts=1769607399659&l=en": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5b0c4660b470b32bb4fec4b59615d9c6a453b057-92x38-svg"
+    }
+  },
+  "https://www.gstatic.com/recaptcha/api2/logo_48.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4736508c795667dcea21f8d864233031223b7832-48x48-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/simonton-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-41dbb5b3d429f46ee7d5b3bed1722630e0712856-750x182-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110137-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5aca81705d6d479f5930ede3daa74f4ddb85d6d3-401x156-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Nolan_leyse_Certificates_logos-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-82601fc69839d5142da202bb2cb3b86f587b1305-357x234-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110751-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3668e4ad8144fd0dc771eb5170984dd3b3321478-292x161-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110249-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ec278daf902f951c8e981f95db19432e7776e004-413x405-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110954-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2be70ccaa8ecb87d018bb27abdabb9d034ab2027-298x299-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/shingle-master-company-certainteed-logo-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-acca1aa31ad3b44f2fc701186c258d24b8cc097a-275x273-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110342-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5387352e3ed08b7c52c48b081a1839cb6f7d7ae2-458x400-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-20.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-468119b1b96420fa0c6e3b28b75fe515f52b5762-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-30.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-14e3a255a4a2d5406e8b94dda456fb3b0b02223f-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-19.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-fa7fd94d5602a28c1feaf3fd45bfd48043f1704a-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/lp-preferred-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4da74288b00989720565fa9bd2ba2c74521a5cc3-550x454-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-29.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bba5d365631bb0ef2c595880ae0b5829e15bc59a-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-21.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7c6e6daf963c3bd236de1a014d4c1fe7f60675e5-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/asd-removebg-preview.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a43f45558c04ff686a7e565f6f2a37669ffdeb54-368x328-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-22.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ccc54b3034d671746b7066411a9cf8aba509bdba-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Copy-of-20230710_134912-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-eb96ce02e2086c91c99941b8138d609840288631-1920x2560-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Copy-of-20230710_134912-225x300.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8d16456b42e9309d08453ef9dd4b3760681526cd-225x300-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Copy-of-20230710_134912-768x1024.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6d8cc66c85141e3087d88272cdb540d3c77e766a-768x1024-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Copy-of-20230710_134912-1152x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-592727b731670c2c1ecf9525249925e5e67ab1eb-1152x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-1-250x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-84a7b7817a9e131e81112011a35b1dde4f6583ea-250x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-2-250x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e8aea25275a0696e2c3d72a5fac3968b230ce5ee-250x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-3-250x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-14de630d79d5795b76900946970a15910702e9f0-250x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Col-4-249x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d0c0d5a5504eeb12fa21947da6bf7ef461ff7bf4-249x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/lp-preferred-removebg-preview-300x248.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-411cfc6079df2a94688048caa1d83530a30515ee-300x248-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110342-removebg-preview-300x262.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-284e9a60b03efa9899e1b3b5e2e03976f3818514-300x262-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110137-removebg-preview-300x117.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ed981e277603908b71e686c0ec517b00d0d09516-300x117-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/asd-removebg-preview-300x267.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2e39646c70be18d73f6cfd547a4736fd234c054f-300x267-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Nolan_leyse_Certificates_logos-removebg-preview-300x197.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bd44c7f527252d00151b0b37a405fa62aa5bd27a-300x197-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/shingle-master-company-certainteed-logo-removebg-preview-150x150.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-92539ab4f39c78a51612986e2277a9e03bed7a45-150x150-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/shingle-master-company-certainteed-logo-removebg-preview-140x140.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6dc472c146919b40471d68e9d8fb07902b0a2a50-140x140-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110954-removebg-preview-150x150.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-dd65dcbc4d3692d076d3e4a68cd6e7cd653d4d28-150x150-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110954-removebg-preview-140x140.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7c020d5d4d3ed24f13f093460fef2ec9fa780827-140x140-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/Screenshot_2024-05-14_110249-removebg-preview-300x294.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-76e8e88e44f914fc8e4668ba48f822c5c50910be-300x294-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/simonton-removebg-preview-300x73.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a29c9b518aa5dcc353ba92f5acf691b1862c679d-300x73-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/01/Cardinal-Website-Replacement-Photos-2-16.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3d22ada8b9de29bf8f5417c658732d13ee5335fb-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-1-5.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-065e019e5255c2f2671ce2a6048094c398a038be-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/01/Untitled-19.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b867481d0b8544475d11b15e269b4038edff06d6-1080x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/squirrel-on-roof-1.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-218102145f146f04fa955c118c505cdb8083b0da-1440x1080-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/01/Untitled-19-300x208.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-978292a4431efec296247519a6f1214bfb46200a-300x208-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/01/Untitled-19-1024x711.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1c741f931be1cb7c32a48db453a08f78b0bffee9-1024x711-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/01/Untitled-19-768x533.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bd23b21dee1f33cedf2be1635893fd82ea41af8d-768x533-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/squirrel-on-roof-1-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3753f624b1359fbeaf89017dbe58150486161703-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/squirrel-on-roof-1-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-dccbe2f616ae89f07790abd604654f4c3c239587-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/squirrel-on-roof-1-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-97337d515339530b1c6bb397025baa0ededcb6aa-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/01/Cardinal-Website-Replacement-Photos-2-16-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2b41d7bbc876cba3243b1a5913b571b114e49e43-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-1-3.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e8c07eb8d0f878cd285f69de16d7aa036495fdf5-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/contact-bg.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c0fae517f1f3045a4d84f8f5d02d2fd1d7b80885-1920x850-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-13.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e411a38045d02e2972ecfdb7d0ee25913a9fcacb-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/insulation-2.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4e5c90346a6e8b3fc334a9374349a782c98a2426-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-13-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2af35f93503e2f284f7622b58a07c70566d932ec-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/insulation-2-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-80bafc129095ac40bf55bcf0238d77131a6a942a-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-18.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ae9286c0e14ba7a22589c0e8faf12dee80f26354-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-17.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-55656552065cce651a4a29269d52dd4744d37a09-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/deck-banner-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5547e9c7f86bcab41d81e60e1c9e9e175ed5a8ea-1920x500-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-17-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-026f63af5c20aa1acc1b416c0104058fdc4eced2-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-18-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-20abdd74e4e41769b172ee7198b21e9501a1f86b-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-21.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-76db12f3a020b8a74d2935a7c6fcf24a9be79f0c-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-1-6.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d9da39c9b3dc885d776044597e49a8aedf9cbc3a-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-5.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-dcc3ad7c4e123ae410de0f8cf743dccf6eb37ae3-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-21-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ce8d3fa14053b1b93073fba0101929cb310ec8f5-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-5-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-42cf20cf0b440d7cf647f6a61e27441b71969879-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/service-3.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-db6bf0669862573d9d16c31819e10231893569f2-450x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/Rectangle-9.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a74c73ecafdb4d77272e0cad92f22ecd4605af65-450x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/service-2.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a800815b188f0767c7396ec7d4fad873cc9d42c8-450x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Ellipse-805.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2c4243c825cbfa6d299fcbec683577204161dca9-200x200-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/service-banner.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-15ff77846528e17bd7b3f8addd38eb5d1e8c0bba-1920x500-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/Rectangle-8.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3c57aec6ea8a4b7d89cdfdcdc89fc11da73364e3-450x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/7009b2c7-6812-494b-a17b-fd0e215514db-transformed.jpeg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f9ba0e70d7eec31065e60aa6e55abdbd52dbba9a-1024x683-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Ellipse-804.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-757ee7bc0419be4ba4b608fe5c54643a8a9f8b6e-200x200-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Ellipse-803.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4253d6f3c6544bd9be5820c10520bdf1731bc888-200x200-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/service-windows.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2056d02bf388ec29cc88f022876556f751bb7995-451x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/squirrel-on-roof.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-218102145f146f04fa955c118c505cdb8083b0da-1440x1080-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/Rectangle-10.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5e77529c47ccbc42c48850647606fc91483df81e-450x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/service-7.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-573d39ef8741b3d686b11d58830a4d564f38b745-450x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/service-2-300x200.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-213bc39ddd25fa5ad882d7ad9220339f9495b09e-300x200-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/service-3-300x200.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7c29e2e7eaa193949807199648ef70e207586c5f-300x200-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/Rectangle-9-300x200.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ff72a0b3c661994703e56c70feca878e7872f980-300x200-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Ellipse-803-150x150.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3055858c18b924dddfabaae2e50f7bfa89ac7721-150x150-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Ellipse-803-140x140.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ae27b796d6a55730691f8cdbe2dad397642306bb-140x140-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/7009b2c7-6812-494b-a17b-fd0e215514db-transformed-300x200.jpeg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-facc4c2c263c7697bd57b566c37401aebba89eb7-300x200-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/7009b2c7-6812-494b-a17b-fd0e215514db-transformed-768x512.jpeg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-97e410b041677e550df158e1d379bf465db2efa1-768x512-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Ellipse-804-150x150.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1a555080acab70b67152d5362df6448cc11dab3c-150x150-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Ellipse-804-140x140.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-06250ef6f940464e147f96eac27dfac476598d0f-140x140-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/service-7-300x200.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-21acfdc841dc6d8c9c2e2832d206977335bd5631-300x200-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/Rectangle-10-300x200.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a951ee25d29a052a1eb10e4d63bf5f9cf6ba73b8-300x200-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/Rectangle-8-300x200.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a769c3d30eef41db44a3a7ebcb85e70305c7e9af-300x200-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Ellipse-805-150x150.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ee3326d7d2dd51859b5502ee00835d914276ecd1-150x150-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Ellipse-805-140x140.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4053b8c073d5e92243dbe1940971dfd3654e115c-140x140-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/service-windows-300x200.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4ac6fcf759cda9529143e3659bf4ae6527eb635c-300x200-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/squirrel-on-roof-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3753f624b1359fbeaf89017dbe58150486161703-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/squirrel-on-roof-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-dccbe2f616ae89f07790abd604654f4c3c239587-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/squirrel-on-roof-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-272f243a22ddf9f6ed40a4a56759f15f520e170f-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-1-9.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-144d4027ec48af74aa4a1ef1046c5d7bb3db2c63-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-19.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6d689b534682c7320795ed575aa9b9a41c2ec069-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-20.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-59ae991552d695557291c5b6e7fe07b283becaee-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-19-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-acf7a7fa781f2861d545c40c14599628d8b66e40-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-20-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8215696f0acd412fd8c28c89b6d00fdb0f2651ed-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-1-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e339c49520e433a760ecc06b41b6dbf4e3cb2747-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-8.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ac4da51514f1a367190b6e0f6649e06e0c501407-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-9.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a41076fdbb56d52df1bb6af0a8143d30580877d1-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-9-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-cac1e77c87b243c473b9b5913d5819e0e81e1ce9-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-8-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a04a29a62ecce5f58e3cb6269f7ef0d1daf714af-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-1-4.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-af3d514e2921cac59ed6d8d680491b131e58392f-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-14.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9edab071ba09907ccf9c45d52cb8231db93e77b0-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-15.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d1e3f1df813f72c757301df6d2c8ff297bcc7a64-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-14-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-963cc4f5e954a37dc3806a6db354d73641d21b88-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-15-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2c84c98aac03714b8e647b56615cbc4a0508f7c7-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-1-10.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7cb5f43d4971940c1519f532c8b3b81ae3aeba65-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-3-5.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-18ea1286a29bc9c1f0e5f8725277107203279c02-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-22.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b9aa530dd2459a056dd851aab1ba6db0bf258061-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-3-5-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-dc9c19f645fa2a8d20e0ecc9976a0a5bbf6528bc-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-22-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a39dcbce416958e464f7b4d7823e28630a913807-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-3-2.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e8df6a12da797ff4b4b38355ba303622c837150c-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-3-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ad58827d6cbcbb75f27b682f48f4bf01d24659b4-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/insulation-banner-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0d21abe89a00ecb35bae3ccde551424a4b7bc6d0-1920x500-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-3-1-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-067819e83f5a7b5ed28646f33cf03c1d78b3205c-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-3-2-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5c3ea6de34aafa361976eb41c25d7b8b6e427110-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Untitled-4-3.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c87aa10a3a63c8b3d7d66070a1d2d036f1366ded-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/6-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-732e6c289320f1aca9c7762d19351878dc3ae7e7-1920x950-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/4-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-49fa5b182d21faecb2b604b8105c184d06218c1f-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Untitled-3-18.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ed4acea5f44f5f97cc9a039afb235afaea50410e-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Untitled-4-3-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-15b73de4282937cf449c38567a240f1418939e8a-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/4-1-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d55e10e6f5db89faecb93b826e8037058b12072b-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/08/iStock-1470161618-300x168.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-dac33b01dcc6a5beacee142b8d24b41e3c0f6e26-300x168-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/08/iStock-1488903542-300x200.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9c1a68b05abc3f6db46aa0f6dd303426ecbb0974-300x200-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/08/iStock-1488903542-1024x683.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a9ed316dce205d19d20e441765613c12edf9f592-1024x683-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/08/iStock-1488903542-768x512.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b3c8a7ab351f6f8cac73839251d9745f3d15a898-768x512-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/08/iStock-1488903542-1536x1024.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e393b5339d56b0d6e228bbcf15254ac7a05a18b6-1536x1024-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/08/iStock-1488903542-2048x1366.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b245ca4f2f47817f716248ef2c7f5d182c756259-2048x1366-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/08/iStock-1470161618-1024x573.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3e6b1d3ac6f837758c3cb65de4e7044cb31ee8c7-1024x573-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/08/iStock-1470161618-768x430.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0e9fc3226337a4537ff11afb1029b1647613cb8d-768x430-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/08/iStock-1470161618.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-18397cb3db0eb2a7355db8736eecc2e3bf89206d-1368x766-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-26.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-70b4b86f286de39b990a815cca9eee78f22d8a25-350x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/10/attachment_3B_20filename_3Db9986ec0-33a5-4136-92fb-edb793da2eca-768x768.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-10a5bc05ee83bfa1896d3c7aabc516e4c7961dd1-768x768-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/iStock-1047694518-768x508.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f5bd06390948af9926ab04af72c82bfc29b7fabe-768x508-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/siding-banner-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-25e4e3bd1b0e2e5e9c0d1478ca695b62e06a2289-1920x500-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/08/pexels-pixabay-53459-768x512.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d064034a5a01662bf403213473dc13ed90d7261e-768x512-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/AdobeStock_465163660-768x432.jpeg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b764d7ee1a79efeb616dc6474819d6c65505513b-768x432-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/08/pexels-pixabay-53459-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ea7913568f89c6269b540875b2bcf5b8d26a0ab0-2560x1707-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/08/pexels-pixabay-53459-300x200.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f609926fda20784485932b10ceacf008dbaec425-300x200-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/08/pexels-pixabay-53459-1024x683.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5ab365cae48e86153d5d3385246cd74430e3a65d-1024x683-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/08/pexels-pixabay-53459-1536x1024.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-79065baf1525d86dfe55c3f696ac9c7d7fed4afa-1536x1024-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2025/08/pexels-pixabay-53459-2048x1365.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-37b51a3340203004924c4b78d2f9f602d1226980-2048x1365-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/10/attachment_3B_20filename_3Db9986ec0-33a5-4136-92fb-edb793da2eca.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e197b837cc8aa3b907401425cf148e093becb046-1024x1024-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/10/attachment_3B_20filename_3Db9986ec0-33a5-4136-92fb-edb793da2eca-300x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-49cf01cffa3f3be093d80da4d4fa63bdc4db1bae-300x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/10/attachment_3B_20filename_3Db9986ec0-33a5-4136-92fb-edb793da2eca-150x150.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5bede9eaed1a2e4338324dcf6546396bbd1a5314-150x150-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/10/attachment_3B_20filename_3Db9986ec0-33a5-4136-92fb-edb793da2eca-140x140.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ff6622a5410aff4672f9a9e2c53452571fbc9a0a-140x140-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/image-1-26-300x257.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0a696a6d2afa7e293224e5d5a50a8b63d30cca62-300x257-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/iStock-1047694518-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0d263684caea4e49b992dd73dc9a32b8399d562e-2560x1694-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/iStock-1047694518-300x199.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9f881e24d481d976a71ee09823239ff1f748f4e3-300x199-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/iStock-1047694518-1024x678.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9fda7e46c28c0a475837667de9c7c61978bf31b0-1024x678-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/iStock-1047694518-1536x1016.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9b52c666168891472c203566712be7a5546e1b26-1536x1016-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/iStock-1047694518-2048x1355.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-22fad85b53493fa6d9981f598e1b8ddfff96193c-2048x1355-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/AdobeStock_465163660-scaled.jpeg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-70fcd41579f045d9514f73c9f86d470256a824b5-2560x1440-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/AdobeStock_465163660-300x169.jpeg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-38ee12030bf6f48d6eab15ab1084ae8364eabc35-300x169-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/AdobeStock_465163660-1024x576.jpeg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6bc57db46edde4f02dff25c9cdb22567aac8b89c-1024x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/AdobeStock_465163660-1536x864.jpeg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c40ccb280565f4b89149457e0472f5b152fd968a-1536x864-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/AdobeStock_465163660-2048x1152.jpeg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-982dc5ec9e7a68812ba199f508d001e9a2df9143-2048x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/about-banner.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6d55d61037e7fcca94ca5b26aa5ed5973db0a0b3-1920x500-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Cardinal-Service-Area.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-102b7bcbf249074212dcbcf8a974cd29bc19f98c-381x285-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Maple_Plain_Library-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-56a469b7d0012e60be3af889e7766cb4dbab50ce-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Hopkins_MN_Mainstreet-1536x908.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b6f762d8c3567e40036c7ec976bfd4a461fa5476-1536x908-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/HanoverCityHall-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8eb9fe3f695dd5294097a9a8e5630620f979c9b5-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0722-MedicineLake-1536x657.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-52dc42bdc097d3681965b8b58850dfe1aa568871-1536x657-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-5.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bf0ba1aa0293554ac9bcbe4491dfd6828406cf53-1200x840-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Long_Lake_MN-1536x874.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-88673788a05669ff4d66e7b079aa8b47850f9be7-1536x874-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Maplegrovech.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6787b70cb24ce2676f958024c42021336f3d3ca6-1528x788-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/ServicesArea.jpeg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3c401d291a2755bc5a2ac1a1c4297fcb1f80c491-2560x1706-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Water_tower_Greenfield_MN-1536x954.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-03f51aaa483f1935694c9d3b3f9aa2d3284e8368-1536x954-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/BPCH-1536x623.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d860a7cdc7594cd350db45d545ad538f47b5f89c-1536x623-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-6.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4fd57488b5f6c93674b5c83a1ed26d89e2aee978-1200x840-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Bloomington_MN_City_Hall__Art_Center-1536x872.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-36904bf4f74d48f4f9a50dc5058336e580566829-1536x872-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/FBI_Minneapolis_-_Federal_Bureau_of_Investigation_Building_27513665992-1536x840.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-51b79036b93048c8546c3155a66b49c58c914fca-1536x840-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/20150502-PaisleyParkStudio-1536x695.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-95fee663afc144dcdeeee9ae5fdf75a24e094e11-1536x695-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/StAnthonysign.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a87a2c979c8fac5d990a3bd02939c37d938396fd-900x333-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/SLPCH.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3be6cfe0ca71a2f480d170c4393e9bec250e217e-1517x911-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/City_of_Wayzata_-_Lake_Minnetonka.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1ba117c0ee0ee81f0ab38c1d8dabfb517ac0b634-600x400-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownWayzata1-1536x1019.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-cef61b08567de5ec90cc3788c518e1becaba9f3c-1536x1019-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-SpringPark-CH-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ff957555ee523587ca5bab6fc0b5d72cb9b43a42-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-StBonifacius-library-1536x1373.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-069c102af483dc15d82ac70ba5ae1e8d4843f1e0-1536x1373-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Downtown_Richfield_MN_-_66th_and_Lyndale-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bf978d76964a5019af7e8a19c0b49345b0a59616-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Osseo_City_Hall__Library-1536x1140.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-da6de82aed1f7902529d7ff8d34160468671e593-1536x1140-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Rockford_MN-1536x966.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4c9c3e9cca7c913b431d031398bf7624caaed271-1536x966-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/City_of_Robbinsdale_Minnesota_-_Water_Tower_Minnesota_33702172680-1536x989.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b08dcfec45b550d630550f65402388844df237fa-1536x989-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Mound-FDPD-1536x922.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ea4150f901158c60d8575137d624e1dfacac9600-1536x922-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/PlyCityHall.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-32f3c7520001820e1a4d9f62a9742ed8fb6aabf0-1508x696-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/EPCH-1536x944.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5b515563e605d76598500fc8649627bf9ccba647-1536x944-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Dayton_Catholic_Church-1536x2048.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-783cea3fcff13054623025eaf216b94896d873b0-1536x2048-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0611-002-50thFrance-1536x582.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-790460dd30029b34b6084a66b3be897f6200184a-1536x582-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/MinnCommCtr-1536x868.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c85e09045694b2b03d1d6303caa19356e6dbfbc7-1536x868-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/IMG_3241-300x224-1.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a8395f5442ee4e95806fe199ec9af2558e232f44-300x224-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-7.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-55d4c42f9d9e687e23b8cede2091f32462844503-1200x840-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Minneapolis_Skyline_looking_south-1536x850.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-332eca02dbe2682e354aab20fcb3e4f12846f85e-1536x850-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/MinnetonkaBeachWaterTower-1366x2048.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c0674dce25cd0cc476ef929dfc4b20945f5485f9-1366x2048-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownAnokaJuly2009-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e833d4425421abf4e7a60b5bd54bed7a062f5690-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Waconia-LakeWaconia-1536x731.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ecf5e101c28ac16049c39bac697274082e56acba-1536x731-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Downtown_Victoria_Minnesota_Sept_2019_3-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-38b5a2860874268f798aadfe4f2c48a634d31994-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Andover_Minnesota_City_Hall.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ece71ab8918a69d3167d9030703562595b86afdb-689x919-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Watertown_Minnesota_5-1536x950.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-06d2dac7e56bce1264bd9e91ab09a9a60719a4e7-1536x950-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Ramsey_Municipal_Center-1536x949.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c06117f302939fa20979bb0de4faceae5f7e2274-1536x949-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Spring_Lake_Park_Minnesota_city_hall.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4567918691415e046e5f413f0c73a5b237a34bc9-1225x919-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Welcome_sign_St._Francis_MN-1536x1349.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-cb73e6e8dc15e7b4fea8e4d662a4db61b15fb953-1536x1349-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Hamburg.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1d7acdf5b5a66b361a963ae6fdfea479e0ad0472-800x600-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-YoungAmericaCH-1536x1430.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b415d81f72529fe75c763234c77d91edbee69391-1536x1430-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mayer_Minnesota_5-1536x900.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2303608c3f450afabcd954c65a52660ff90ed48a-1536x900-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0610-004-Hilltop-CH-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e76bcff2c5523ee5ee1a17c3f396be60d59cdf11-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Fridley_City_Hall_July_2017.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0f2fd56a4d1e446999442c4b0749f32cc4f9e788-1024x509-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Cologne-govt-1536x1081.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8bd9c48fa30f2616f73e2b43aaddd9ec01eab005-1536x1081-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Coon_Rapids_River_Dam_-_Coon_Rapids_Minnesota-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d430eadd849ac3185c5c788540bd4f877e943162-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Chaska-CH-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1cb9d0b720b79b222963f247c451ee836a1a2eed-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0610-006-ColumbiaHeights-TheHeights-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f3711d08fe6f6a130a19389aacdf6dca13f42707-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Garden_City_Hall_2-1536x709.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-799e208dc1d2e8d316f578919fc240f9a2cfacfd-1536x709-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Water_tower_in_Blaine_MN.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b3d8608af85b96b1460da14d72c70f504eaee74b-640x480-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Carver-MNValleyOilCo-1536x1059.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6021e438c5cff3728ecb7851ae3100e7d50cd45e-1536x1059-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Dist22School-1536x901.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-65c6aa0887fc7b8f1554694bc659224b752bc1ab-1536x901-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/TCO_eagan-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6b88c4f2266309b0d8b5d7edfb6dadcec1f8ef95-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-West_UnionLutheran-1536x1356.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bdbc4691c0df630075663876021f7a5438e23cca-1536x1356-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Burnsville_Heart_of_the_City.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bda36eb1f66e67d10924362c59ea99f2ef2c8622-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/HamptonMNwatertower2006.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-efd92ba149d6d51c666746533c303131f839c4b0-757x1134-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Lakeville-City-Hall-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c5ffd9066b58062da06decbf4be3e9de7fee4dd6-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-9.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9aea40d6357cc416d95bc3cfa8b383f18f0d5606-1200x840-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mendotastreet-1536x849.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e1080c40b5b80045d8d92b976beb834a070c255d-1536x849-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/AV147th-1536x857.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-89e8907fd1149af147d6e5a30cf2184b809cad81-1536x857-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Schmidt_Lake_in_Inver_Grove_Heights.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ac04878fc9f1e5345416f149b2ea71451560aa6a-986x723-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Farmington-Exchange.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-08dbf2708996d2b8a39be93bf3c89911d65653bf-1229x1107-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Shakopee_Minnesota_5-1536x752.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d2e2fabf322faf0c012e02466ad0b400bda2ca32-1536x752-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Abraham_Bisson_House_2015-1536x1074.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-818e852adcf71472461c51996e9f0d6aaeeb4998-1536x1074-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/District_No._72_School.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f809a3c4540d8e3f221b7c52eaf77e754dc30b24-1024x913-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Springlakescottmn-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5b73fd57bff7eab97e2f7dc92d4c55c1ea72f6a4-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/SherburneCC_cropped.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-cd4195fddc4e466e99201b0acedf267a9dcc2876-956x491-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Savage-1.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5539b487199ac7772613bb31a19d1316ab58132a-381x285-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Niningerch.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-389d3c4f854b32bf61deb567ec7defb560f85937-1407x811-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/New_Prague_Minnesota_5-1536x1187.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3b9e0e8aede9a4fb333c435dc74bc24f0e19b96d-1536x1187-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/05/Cardinal-Service-Area-300x224.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2f1447b1800312d7d2f32f24a1a8a47ed13cd4f1-300x224-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0722-MedicineLake-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9b8bdc80c5c5905ca3334d101e10f9fe11eb4523-2560x1094-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0722-MedicineLake-300x128.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-51061a243b021b9fe4a20e0bb3f43676d5b0908b-300x128-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0722-MedicineLake-1024x438.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bb25508211263f868ab770aff2909597277536c1-1024x438-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0722-MedicineLake-768x328.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7c50bdf02786f852b7f6ca8bbeee50815046eac9-768x328-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0722-MedicineLake-2048x875.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ba68f8fc60fc8c50924a0f28de5e57a81ff3c79f-2048x875-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Maple_Plain_Library-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f168a60f59b67fdbc3d9b993898d9feb57127078-2560x1920-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Maple_Plain_Library-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d810dc318929458c4b3195a00aad169a114cc78d-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Maple_Plain_Library-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2f341b3dbd926595d991753523c411c72faae679-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Maple_Plain_Library-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-98a29a9c3c57eaf4d65b81cd7efd22ae65602d78-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Maple_Plain_Library-2048x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8397292cef23c594d28ba12e1a0ae91db161b5d1-2048x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Maplegrovech-300x155.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3f813e7fdf038a02e99fac4e08979cfa2e8248de-300x155-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Maplegrovech-1024x528.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5e42dc44b11269ca5312b55c2b0a419ae13f458e-1024x528-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Maplegrovech-768x396.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-94a9882994230db60f602dc7bde21f226c2e0620-768x396-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-5-300x210.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c545c6104a0271baca3e1c17d9ed5a3b9a12e35e-300x210-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-5-1024x717.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b2fe43bdb122fe3cbf372f15a72c43889a0c712d-1024x717-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-5-768x538.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-99db01dbdfda2e81124265d5528455c2a88ff5c0-768x538-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Long_Lake_MN-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-43463031492503fcf9516a3ad2640680b3e1c729-2560x1457-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Long_Lake_MN-300x171.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1abd5f535648b80b69c74767acc77e4d56406b1a-300x171-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Long_Lake_MN-1024x583.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-62a67552c3e51b047736ae6544f03c00351c600d-1024x583-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Long_Lake_MN-768x437.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7ec4902a09072ab32e5826f9b6a7f502531e921d-768x437-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Long_Lake_MN-2048x1165.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-224f32a8cb153fcd405c9ae3f18686fe54867342-2048x1165-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Hopkins_MN_Mainstreet-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4ad21ccfd899b9f8f48c56b237f06cf6fbcdfd58-2560x1513-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Hopkins_MN_Mainstreet-300x177.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c51d0f2231321d3816e8492b64d12ae0b54beb7e-300x177-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Hopkins_MN_Mainstreet-1024x605.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-65028179186c487ae076a1e1b8a716941f9567f9-1024x605-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Hopkins_MN_Mainstreet-768x454.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-77544971afb49b42ee196ed0daeb250b541487f9-768x454-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Hopkins_MN_Mainstreet-2048x1210.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-baa149cbe098c6cdad06bac71defefbbae0b7a6b-2048x1210-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/HanoverCityHall.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5a9f3a3208c061633c20ff85d0edc23eea98c247-2304x1728-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/HanoverCityHall-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2e70e8921c3136bbb1b5eb1cf16c33888ccb755f-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/HanoverCityHall-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-63fb414bd6dd467293278b9f4457d7fc4ff177cc-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/HanoverCityHall-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1ec1ffc33a326fc5bb74d16cc8edc8069b705709-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/HanoverCityHall-2048x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c99c88736bb9af970675bbf41f3ec9be413755d3-2048x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Water_tower_Greenfield_MN-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-071ce51ce581196d76e1bd6e4d9a5271073f1366-2560x1590-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Water_tower_Greenfield_MN-300x186.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bbc3ce1bb1e098c3f6dc4a2c6f1baf907ff28a2a-300x186-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Water_tower_Greenfield_MN-1024x636.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b2151c74bd56c0f006e7a8e2759d054a33c82db3-1024x636-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Water_tower_Greenfield_MN-768x477.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7f29d64334a5f3bdc09b4ce532b54a3777a891ad-768x477-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Water_tower_Greenfield_MN-2048x1272.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a26bd95605bed651370fa63a1283daecf41eb99d-2048x1272-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-6-300x210.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-faa2bdfd60e79a916ad01bc2e61447698dfd02c6-300x210-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-6-1024x717.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e982d54358dfe502567aac32f67fc72d18bf278b-1024x717-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-6-768x538.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e9b69a58417b5b8b435744494b96d29680829b8b-768x538-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/20150502-PaisleyParkStudio.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-769b7e30abf29d318e1ee04843103b3f23a20ca6-2542x1151-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/20150502-PaisleyParkStudio-300x136.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-179f44c3830f282f466432d602aceb1f9d885fa7-300x136-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/20150502-PaisleyParkStudio-1024x464.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2b815cfde85c8e04244f927864442cc4fa31ce8b-1024x464-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/20150502-PaisleyParkStudio-768x348.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-fd4d41820f5376017714018866b5e9f65c03c96f-768x348-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/20150502-PaisleyParkStudio-2048x927.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4a7a4ac568596acd7f0611f5a25e7d2f009df73c-2048x927-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/BPCH.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9011e5944619b85617dd6bc27fe55b00bfa55f2e-1557x632-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/BPCH-300x122.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-76142e74491466b15084dc9672ab72c680cd6a8a-300x122-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/BPCH-1024x416.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2efb7cd0aae581977a5ffe4576210bed4316b10b-1024x416-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/BPCH-768x312.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-000ca179e64199c52e184dacf8e1c348c10b30dd-768x312-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/FBI_Minneapolis_-_Federal_Bureau_of_Investigation_Building_27513665992-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-fd9bb6b5a74d80bff2115acfead2e1450677ae1b-2560x1399-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/FBI_Minneapolis_-_Federal_Bureau_of_Investigation_Building_27513665992-300x164.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3636d5f85901d262d5772bcbbb020de5c4c6edb4-300x164-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/FBI_Minneapolis_-_Federal_Bureau_of_Investigation_Building_27513665992-1024x560.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bd0dbf8cff364a227b8d6d90dd0d5575807bcdb5-1024x560-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/FBI_Minneapolis_-_Federal_Bureau_of_Investigation_Building_27513665992-768x420.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4ffcccd75976cff1fe3ae86ea4f0839c90e54972-768x420-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/FBI_Minneapolis_-_Federal_Bureau_of_Investigation_Building_27513665992-2048x1119.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a448de833504b7b350a0051014087efa1f919b21-2048x1119-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Bloomington_MN_City_Hall__Art_Center-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6578ccc26d3f2524a8580ff77880a070a52bb852-2560x1453-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Bloomington_MN_City_Hall__Art_Center-300x170.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-cbca5f6b0ec0ee5e73bdc0f9c975437192dc553b-300x170-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Bloomington_MN_City_Hall__Art_Center-1024x581.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7e425e45b9b00ff78cc7deaebdbc42c13614561e-1024x581-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Bloomington_MN_City_Hall__Art_Center-768x436.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9fac8e21062f52ba1b867d0c4616792c891a89b8-768x436-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Bloomington_MN_City_Hall__Art_Center-2048x1162.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-07719fd22d77928b806bc199cdf5a84d8eb6c900-2048x1162-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownWayzata1-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-00526e59a0e015701d8b0f086a726892884ca920-2560x1699-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownWayzata1-300x199.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6bdab7764cabba57fe7a2e1243861602e0bf36a1-300x199-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownWayzata1-1024x679.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5c1ffd4ffabdda1b49c233361b2a29d09a470bc1-1024x679-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownWayzata1-768x510.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f774e131766827249b48bc21088978fe1a86fd17-768x510-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownWayzata1-2048x1359.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f05a42b50e46f5439262ef5d961ee197d6300aac-2048x1359-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/City_of_Wayzata_-_Lake_Minnetonka-300x200.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-98f613a5899edf2fd033943e17502ac29dbe8957-300x200-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/SLPCH-300x180.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4418e0b74624bf991ffe4c3e586b3d4508a33eff-300x180-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/SLPCH-1024x615.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bf527b7d1d02acf36645fe8945fa104935aea0e3-1024x615-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/SLPCH-768x461.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-752b60c6e63150390addce888ddf8a2246929f0f-768x461-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-StBonifacius-library-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-10496dd5201d1647491191709f259774bb5d358a-2560x2289-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-StBonifacius-library-300x268.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a22c4a7168945a62cb3b654b4eb1011f20703c62-300x268-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-StBonifacius-library-1024x916.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e5f64609896dac0cc7990958cd62c8cd3f17b411-1024x916-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-StBonifacius-library-768x687.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b9a26ed6253ad1e922b1ba50cce7ba6654a9db5d-768x687-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-StBonifacius-library-2048x1831.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a3d16cbe93925511a5e263ef482e4df61f1b69c6-2048x1831-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/StAnthonysign-300x111.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-95999f44c02c6a1d2d374b69f54d58ab7e5b8a79-300x111-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/StAnthonysign-768x284.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a6f9466ece6410004df9e730e202906b668dece0-768x284-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-SpringPark-CH-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8d53de9e005289a62aa4919415245ee84519b982-2560x1920-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-SpringPark-CH-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-eff3b23528d71683bd383f6c3ad3a2212e790437-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-SpringPark-CH-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7edff5174b598fb18d0965d54a10d242bc9f574a-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-SpringPark-CH-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-47f7ae642e3ee5df82600edfbfa4648af352bafc-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-SpringPark-CH-2048x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b1c6cd457e78832b752386848aec50ed4d0aa700-2048x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Rockford_MN.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d43f3e773cfdd4260c4f004b6de2c8df4ae50121-2302x1447-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Rockford_MN-300x189.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-072ed3d95240159cace58ebe7c8025a4099b15f2-300x189-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Rockford_MN-1024x644.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4fc16a537aa64ba0ed7289626a675ae5f6ab90c7-1024x644-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Rockford_MN-768x483.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-39e106ddb235b4fa127c96eb811249944b8d6d30-768x483-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Rockford_MN-2048x1287.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-62e1341146b43cff8e393da2e95bce03d5a08ad1-2048x1287-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/City_of_Robbinsdale_Minnesota_-_Water_Tower_Minnesota_33702172680-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f03d9032ec11fc84cdf9c0a8557da6037c0d8e6c-2560x1648-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/City_of_Robbinsdale_Minnesota_-_Water_Tower_Minnesota_33702172680-300x193.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-edbb1dfeaf20d4c7cebfcda3735e1ba7a36cd802-300x193-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/City_of_Robbinsdale_Minnesota_-_Water_Tower_Minnesota_33702172680-1024x659.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a913873316a221f1a43090b80bab82af9068a7ba-1024x659-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/City_of_Robbinsdale_Minnesota_-_Water_Tower_Minnesota_33702172680-768x494.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9ef5d7211c30fdf44a858de4b3c947470e4afaee-768x494-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/City_of_Robbinsdale_Minnesota_-_Water_Tower_Minnesota_33702172680-2048x1319.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d7f2bd85ba4fa04f4413d3fa10932f438d55c695-2048x1319-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Downtown_Richfield_MN_-_66th_and_Lyndale.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-35add29ccdcdfc43390155d130bd77fc9d8fa6bb-2443x1832-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Downtown_Richfield_MN_-_66th_and_Lyndale-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a491a2d867af1cf2440e9ff4f8ab6792e6581e14-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Downtown_Richfield_MN_-_66th_and_Lyndale-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a0fba110776ad6443f4274f20d70580ba246ece8-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Downtown_Richfield_MN_-_66th_and_Lyndale-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8d00d86fc25b02bbd175c9100873e1c8dcb10dcc-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Downtown_Richfield_MN_-_66th_and_Lyndale-2048x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c67aacc2c5300fc8b4280cc2f85bb76e263b8da2-2048x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/PlyCityHall-300x138.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2dbd4fef3d2b51495e1d47ac77056b5e6ccf7d87-300x138-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/PlyCityHall-1024x473.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-10c6f71619747ed879d1d7507f1a40b37a0bef51-1024x473-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/PlyCityHall-768x354.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bac4962e507b8e393023f45cfdd719cdb44e8195-768x354-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Osseo_City_Hall__Library-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-58953133566dbfbe156e4b47d9aaee929dabbe28-2560x1900-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Osseo_City_Hall__Library-300x223.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6cfdbc7a7effda6b94edd196a63fb57ef41b50d3-300x223-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Osseo_City_Hall__Library-1024x760.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2174b754fcc95f5deebbac26b47eaf52ea693b5a-1024x760-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Osseo_City_Hall__Library-768x570.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0220b90032f883450b8af10c8f9e0d629fb0fc46-768x570-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Osseo_City_Hall__Library-2048x1520.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1ebd533c75e931c8c333ff9c478db2eda4246a44-2048x1520-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Mound-FDPD-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5eca36cae3f8c50174f86fba4a2c2affe7332a56-2560x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Mound-FDPD-300x180.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f8feb230d8c7aa64cff97c25010ae4d6a1130188-300x180-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Mound-FDPD-1024x615.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-18ac48a08ca3c5ad30bd0b2293d7263a6926565d-1024x615-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Mound-FDPD-768x461.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-fbac845bfaa93918db7d4253a9d22a46ffab0505-768x461-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Mound-FDPD-2048x1229.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-cbeb2cc7af7f317a04890af1b823513520881a1d-2048x1229-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/MinnCommCtr.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-cf756d3c90446129b95b03987733a483ecddb213-1548x875-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/MinnCommCtr-300x170.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2569bf4cee600b574aa7de194379b1cb18119ec3-300x170-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/MinnCommCtr-1024x579.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9700543f7535aacd816ff3f4c12b5f428f7b93fe-1024x579-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/MinnCommCtr-768x434.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-72e1aa9ffe47f41f93dbab73857897f3e2652fad-768x434-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/MinnetonkaBeachWaterTower-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b010088accb455ae54baf2876a815088028b8237-1707x2560-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/MinnetonkaBeachWaterTower-200x300.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6a4e735c4dea215889831ff3a05968a3f9b1707c-200x300-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/MinnetonkaBeachWaterTower-683x1024.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b06ff8680466cf79dee3ff8ce8aa990d1632ef93-683x1024-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/MinnetonkaBeachWaterTower-768x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-90cbe599cc863f3d0e04310baf32314e3268fa53-768x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/MinnetonkaBeachWaterTower-1024x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-361204858a4040d82e71d52b99bb44498af1fe3f-1024x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Minneapolis_Skyline_looking_south-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-899b27a2bae313dbf769f1ef1adfa71fc22bd77e-2560x1417-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Minneapolis_Skyline_looking_south-300x166.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5bb4f0e3778bdd7d5d082c149f9e591d1a1835db-300x166-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Minneapolis_Skyline_looking_south-1024x567.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a737198c9bd38836c161ebbc998efa57986e04fc-1024x567-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Minneapolis_Skyline_looking_south-768x425.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-91abf1332bdcdf13d3f008702ff2835ad074d46a-768x425-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Minneapolis_Skyline_looking_south-2048x1133.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a5fb0f2c956a416070cf8f4460dfe61253e28e92-2048x1133-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-7-300x210.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-354f8478e6302f69d2be5adc59dfeb884fcda8ba-300x210-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-7-1024x717.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-cc24125d8ba9c3b324bb1666e43e41d8238d251e-1024x717-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-7-768x538.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b2c462f77f15f459215246a4f3d9d7d2091b2410-768x538-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0611-002-50thFrance-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9181b593e3c2c8d465144ab07aacdfd486ee3090-2560x970-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0611-002-50thFrance-300x114.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-700bfe9c227686c7d84593e7310917a857a537d8-300x114-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0611-002-50thFrance-1024x388.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-236a28368cc310e72f89616b3d4576b5bc328fd3-1024x388-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0611-002-50thFrance-768x291.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-79ae9b1ccb111d391da02be76b0f4e06ed5e1ff5-768x291-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0611-002-50thFrance-2048x776.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c032e663e25ce3cb5f8df46d65e788257f26a546-2048x776-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/EPCH.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9c12285f635486f67c07690cffb8b510ddbde5f8-1600x983-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/EPCH-300x184.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-fe475fed931d22e1f7a63df0d9af66e21be9e289-300x184-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/EPCH-1024x629.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-655c337ccc1ed1fc12ebb0fc86b641d2d8b61d5b-1024x629-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/EPCH-768x472.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ed32ee0752f7c13f2dec52e3844a636b95b62081-768x472-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Dayton_Catholic_Church-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ed536945a8343e34a3efe68942128e30a1166326-1920x2560-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Dayton_Catholic_Church-225x300.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b9bd8050ed307e2726b081a76a16b99c52f8b69b-225x300-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Dayton_Catholic_Church-768x1024.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-aa36789d9e85e07058e1f570d8d29888a79747b5-768x1024-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Dayton_Catholic_Church-1152x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ff3604f9470a152e368cc327a13c70313ad1f7bf-1152x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownAnokaJuly2009-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f86e46cf77c82653a747c1e994da78e97f1e6968-2560x1920-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownAnokaJuly2009-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5f136618aeefc076bb88a7afd93cf3b555a760a7-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownAnokaJuly2009-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-daa5d702c9a9ffed4f81ac95bb2aa3a109aad6ab-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownAnokaJuly2009-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-83ff6984f7a12665f45cd2cca17437a9cc36bd07-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownAnokaJuly2009-2048x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8e1bf7c743c7849804e4345c4061fb3610882527-2048x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Andover_Minnesota_City_Hall-225x300.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6735d456f076240efbbbeedc293dc4c6590c9fc1-225x300-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Watertown_Minnesota_5-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-22953270cec2e0e333623a9422c0c00eacf7fc8d-2560x1583-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Watertown_Minnesota_5-300x186.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7b3580bd3bd997409337341a01e5cf3caf670192-300x186-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Watertown_Minnesota_5-1024x633.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d263354224328b427ee8ebb7a2b84b0d2118a38a-1024x633-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Watertown_Minnesota_5-768x475.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-89b7d6c84d1b57e5da8ee67397e62f9fd080bcf9-768x475-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Watertown_Minnesota_5-2048x1266.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4c0c6d3f5274aba13bca1ad92764fe4d6a2b76d9-2048x1266-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Waconia-LakeWaconia-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-71d9cce7bee19aa2be9997f702ecec96ad12449a-2560x1219-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Waconia-LakeWaconia-300x143.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5d7c71d86f6ea5274680909410194b7c3548deb6-300x143-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Waconia-LakeWaconia-1024x488.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2dc870a6d0846854d3e8571fa346a951e9d84377-1024x488-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Waconia-LakeWaconia-768x366.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-cf8fc9cafad1b3192b24e846a67918e535e4b3a7-768x366-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Waconia-LakeWaconia-2048x975.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-fac66b8bc3738751df601ae70cbd3342c8dd755c-2048x975-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Downtown_Victoria_Minnesota_Sept_2019_3-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ab56a7e05eaf525165d72b1d7151d8a5acb98361-2560x1920-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Downtown_Victoria_Minnesota_Sept_2019_3-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6646cffcbab27ca6d08c85d14399898bade9f787-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Downtown_Victoria_Minnesota_Sept_2019_3-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6237033b4e920e90be82960ac310bb2b8bea27dd-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Downtown_Victoria_Minnesota_Sept_2019_3-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-04ea49112b33e4b750430249c4576d820c9e7cec-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Downtown_Victoria_Minnesota_Sept_2019_3-2048x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c30b4be315b83e04d9051b4931689190a04ff4ca-2048x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Welcome_sign_St._Francis_MN-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-938a495718c0de469185b21ffeb8bf511eb8bc36-2560x2248-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Welcome_sign_St._Francis_MN-300x263.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7519409605a3142e495d160f08f53c0e4fb6e261-300x263-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Welcome_sign_St._Francis_MN-1024x899.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bacb6d03ef5dee18c6d3b8f8fb84b4aac6f340ef-1024x899-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Welcome_sign_St._Francis_MN-768x674.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-480d73f92f7f4e77c47852a459cdcd80621201a3-768x674-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Welcome_sign_St._Francis_MN-2048x1798.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-438481ec2778c4a8e9db9cc89c55b3b20ec46597-2048x1798-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Spring_Lake_Park_Minnesota_city_hall-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f6c0d4b653c76e495820d215a117baefdf4d21a2-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Spring_Lake_Park_Minnesota_city_hall-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-011ec738e7b0b7688514f578fff8d7e5dc610f5f-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Spring_Lake_Park_Minnesota_city_hall-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d7b0fc4f30643cea15239f107004700c876c3660-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Ramsey_Municipal_Center-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a5574b62cf74b9b634f6459c89b5bbd4298f45e6-2560x1581-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Ramsey_Municipal_Center-300x185.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-aa3328aa5bf07f0e489399773f4bc1fb14ef09f0-300x185-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Ramsey_Municipal_Center-1024x632.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-82fce94eb3e30e4987cc0438624f81b543debc52-1024x632-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Ramsey_Municipal_Center-768x474.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-046075da591d912f8ace05808de0e0151d6e2d45-768x474-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Ramsey_Municipal_Center-2048x1265.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a2b8f2c5488b4076c38d5bd1879f991e97bc4a68-2048x1265-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-YoungAmericaCH.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-09923a7a104e24339a2777db9b0bdc4c3a4876de-2346x2184-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-YoungAmericaCH-300x279.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8ca9437bd0815e78056a1fa2651fdada4b571ca5-300x279-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-YoungAmericaCH-1024x953.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-79c11b8a40fa11c20377d050026cf56e5bf1b613-1024x953-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-YoungAmericaCH-768x715.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8446e28f93782fd070c30b6e4fde77ee384bff39-768x715-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-YoungAmericaCH-2048x1907.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7d33266f863f3bfe97a720eeefbee89e7beef2bf-2048x1907-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mayer_Minnesota_5-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6a1f4bf1391a3b617b69b5fac4d8b104d51f9e25-2560x1500-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mayer_Minnesota_5-300x176.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2e8d6347cd3b057d5b0e5af5089441ca2e392b98-300x176-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mayer_Minnesota_5-1024x600.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0d35f0637fdaac791415d083ff019a6cad282e8c-1024x600-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mayer_Minnesota_5-768x450.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-23155e4754308b242f4a422a889020a7e84dec9b-768x450-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mayer_Minnesota_5-2048x1200.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f825d85b4df437b4d242e7f4ccc21ca074e5ddea-2048x1200-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0610-004-Hilltop-CH-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-fab8f94cec8d4c6cb89901c9a6a5f688617414e8-2560x1920-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0610-004-Hilltop-CH-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3739dc3c2d81dbb78c7b823f7fd698bc158a0165-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0610-004-Hilltop-CH-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0502031d83bf17babcd2e9530446dc2eb9e08525-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0610-004-Hilltop-CH-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f4a05ddfcc1ee95ac58633875534788ca3e34416-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0610-004-Hilltop-CH-2048x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-90556243aec0254383454528bd03bf4acf844875-2048x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Hamburg-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a871a177c81f78c0880dc41c14a6cf50b3d5e9ad-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Hamburg-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c9b6c74b533f2a5cb40208108071577bf48bf9b7-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Fridley_City_Hall_July_2017-300x149.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1220e2277d723b431861ce0ac7eda64632fb16fc-300x149-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Fridley_City_Hall_July_2017-768x382.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2bdc3ce40d4f60790ef4b20204a01fbb2589f0a3-768x382-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Coon_Rapids_River_Dam_-_Coon_Rapids_Minnesota.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e10172889b205dd137228f989b3eae47a6595a1e-2048x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Coon_Rapids_River_Dam_-_Coon_Rapids_Minnesota-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-dba9b8e9eb67cca04bf2a177ef7f0ed3957f3922-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Coon_Rapids_River_Dam_-_Coon_Rapids_Minnesota-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6fe4373270af9564a3af9018d6ec0bcbfdbf5106-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Coon_Rapids_River_Dam_-_Coon_Rapids_Minnesota-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-bcf518b7888e004c4ed820bdc40c240172222739-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0610-006-ColumbiaHeights-TheHeights-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2c0333bb61ef702eb9cf7b773cf3524b4e90601d-2560x1920-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0610-006-ColumbiaHeights-TheHeights-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f02465da894f84cec1f1791a6d0ede62992275bb-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0610-006-ColumbiaHeights-TheHeights-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-fa543267080adbe41e9383951bf71a3452f592c9-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0610-006-ColumbiaHeights-TheHeights-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b0c6c60909fcf7574717b61394b44b8ec603b349-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0610-006-ColumbiaHeights-TheHeights-2048x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-fa1eb646c7d6e32bfb0921b9e0f315edc1d20884-2048x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Cologne-govt-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a44ba69cc05c7b4703b3f19dce398cea8769ff44-2560x1802-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Cologne-govt-300x211.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-cf18feda4d730497191ed1567680374b7bfcfcaa-300x211-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Cologne-govt-1024x721.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-78c135bcc69111dd1cdd40bf56c409a75c0c915b-1024x721-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Cologne-govt-768x541.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e6f0f239d6682f0ded34256456820be9a29bee8c-768x541-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Cologne-govt-2048x1442.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-cf62c1332ce1c7335de9de6c4704266d5eaa3267-2048x1442-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Garden_City_Hall_2.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-250362635145791cc7c6bb69ff0d18f424b884d8-1829x844-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Garden_City_Hall_2-300x138.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0a82b280a3d94978c2d3ebb7948ab992746c25a9-300x138-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Garden_City_Hall_2-1024x473.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3983e9a6c345132865605adb88b0b7bdb3e2d16c-1024x473-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Garden_City_Hall_2-768x354.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b0ab2d3cff29f1edffa00bebdbe158e00e881940-768x354-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Chaska-CH-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8d126c223483156b32b8fd27a57a9c4ff91c7302-2560x1920-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Chaska-CH-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ef214da0e06baa23149c8bb9dfbb2cd47ba9d292-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Chaska-CH-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f2bb6d68a2044c66ef553c9b16a6554661070d05-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Chaska-CH-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8652987686b88907e45e6be915b87e54818d0524-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Chaska-CH-2048x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-337530262e8bed5a19ee39f2832d4847bc76418e-2048x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Carver-MNValleyOilCo-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-20920c7d950efc7fa25f40d63b586e6c45478353-2560x1765-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Carver-MNValleyOilCo-300x207.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-70e26325d73faf2cdd6031f67bef436b4ee30c81-300x207-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Carver-MNValleyOilCo-1024x706.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b5819df3cbb5dcafe9392c9b93f05ae141ec7ee8-1024x706-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Carver-MNValleyOilCo-768x530.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8f2efcd87342275d8528533017ce3d2ec4fa57a8-768x530-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-Carver-MNValleyOilCo-2048x1412.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-cbea7bbc05576175a6593eda4ec7917a2629c197-2048x1412-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Water_tower_in_Blaine_MN-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-57faca281e1a3c437cea1592ad051a150a5c70be-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Dist22School-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-798d33a94d6dbaef4304fddb6cd40a0bc60ac7c6-2560x1502-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Dist22School-300x176.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e79ccab0d4592f11174a355e2979f3b0737f2acd-300x176-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Dist22School-1024x601.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f06233beb11b7b3c22e836551acae3bd3ff61387-1024x601-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Dist22School-768x450.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d5959bf8ffa3054493300abc407c403342e1bae2-768x450-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Dist22School-2048x1201.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-482a26b1a6a6e774c4453e7d7ef089243db7bb15-2048x1201-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-West_UnionLutheran-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b3a4d33498ea8194cddf452bc386c793f02da807-2560x2260-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-West_UnionLutheran-300x265.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4b407374a03b74cdcbde40aadfa0ff839de54f2c-300x265-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-West_UnionLutheran-1024x904.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-62f36eb733e2ca230239630adb93f86e0c08857a-1024x904-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-West_UnionLutheran-768x678.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-08a0b18c04da1a7cbb5f644891e4d738ec09bf3e-768x678-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/2009-0713-West_UnionLutheran-2048x1808.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e23972c610ac9829a3833b9469d1bfff74fe10c6-2048x1808-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/TCO_eagan-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-beda0a88a3231cc7bff971302465adf24c524435-2560x1920-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/TCO_eagan-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e6f5e4993b092fc97967f1a6b1f23cfa9286c9c4-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/TCO_eagan-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-012571ab20e89d4619921cbb50ac682ea8944f6f-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/TCO_eagan-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-970557460f17916843167ab37ee84628a3b235e7-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/TCO_eagan-2048x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5591d1620e038fcb432da71a27d8aeb4974fc764-2048x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Burnsville_Heart_of_the_City-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c8fa826dc8e15f07db80500cd55041a1263d3fdb-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Burnsville_Heart_of_the_City-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6b3b4b61487a5c7ae65f50bcfad0c56e336a795c-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/AV147th.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a26364485210192dd5045af92d5a731fd4558425-1588x886-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/AV147th-300x167.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-58c60bc40b5aaef7053fa512d83447701d91d395-300x167-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/AV147th-1024x571.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ba869f63320a5ff937f988b23c7cfe4a38b37234-1024x571-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/AV147th-768x428.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-214311aa5de88294dd8d193cd82fdb81c0d41ee5-768x428-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mendotastreet.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-62ab7203333617ae53786b404bdf87b654ee8adb-1582x874-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mendotastreet-300x166.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a48f49d7ebbc0600334bbecc673be0b0f44f33d8-300x166-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mendotastreet-1024x566.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-61e69cbd0fc719ee97f8ec12eadeef12db9e2a08-1024x566-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mendotastreet-768x424.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d3055cb3b0fa266eb6eee86d9aa3f11bc76b2a57-768x424-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Lakeville-City-Hall.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5c865f596c0134351ca21365629ff331d2ba87c2-2272x1704-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Lakeville-City-Hall-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1032caa275a9f40d4959ca991ea8897c7b2afcd5-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Lakeville-City-Hall-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f3069e213dc8e343b8d50e31821c98f2028384d1-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Lakeville-City-Hall-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-029256d7ef7c2afede4a3ec3ae50ff12d9cb73a0-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Lakeville-City-Hall-2048x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-232bd37bc081bb229f4fa9b573de5c0ebc5964e4-2048x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Schmidt_Lake_in_Inver_Grove_Heights-300x220.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0ce7f68f89ea1678a90b0edb9be16fc7fcbe3338-300x220-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Schmidt_Lake_in_Inver_Grove_Heights-768x563.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-adb04868962756901d573fde9f0dfd44273ebbc4-768x563-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-9-300x210.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d7b12bbcf057f2d335afd153f6dd2091d55ec876-300x210-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-9-1024x717.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-307241c76108006580712423b4907e5e3cd13a95-1024x717-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-9-768x538.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5ff3227ef8c250cc4aec46c1fb8a0a9a10cc7532-768x538-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/HamptonMNwatertower2006-200x300.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e3c090dce8301b1542d4d8f475730058772e7019-200x300-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/HamptonMNwatertower2006-684x1024.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a65c0943dfdd7c43935526397dd37bc3f74dcc40-684x1024-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Farmington-Exchange-300x270.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f1d1b27010e8b8690a6f1770d74283406d891a77-300x270-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Farmington-Exchange-1024x922.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-94c5bea65183248bb3e885657d24af171b3229e4-1024x922-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Farmington-Exchange-768x692.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-099b3b013e6b059a59cd55a19eaa92685a1f0ae5-768x692-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/District_No._72_School-300x267.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7a2c5df1b3431fd9ed4859bca1294b1ea5c1f016-300x267-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/District_No._72_School-768x685.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-336d1eb16049c0f93e2a91513709292fe4cbdf6b-768x685-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Abraham_Bisson_House_2015.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e404e22d7805010bf580d9a4bbe321ab1de5253c-1742x1218-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Abraham_Bisson_House_2015-300x210.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1c8b3c0d8501c27a70f60ba6277a94c15f307f82-300x210-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Abraham_Bisson_House_2015-1024x716.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c9f77e83134f4bc9ea856e12e557dba471f7d73e-1024x716-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Abraham_Bisson_House_2015-768x537.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ec6e08528e51cdbf19f43ef4087ab8c73790bcaa-768x537-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Springlakescottmn-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-940f0fcc4ce06083f16f8f0a2d0e8e41ca0b6149-2560x1920-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Springlakescottmn-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ed52f84e0e710de3ccd7e5f205e05b34319bf1fa-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Springlakescottmn-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a91a0fe98d36c2162ead3190a20da869bf4301d9-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Springlakescottmn-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-479842466840c8839954456fa90dc7951829f709-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Springlakescottmn-2048x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-84a44f08b22411424fcffa661ef51e106ce9f180-2048x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/SherburneCC_cropped-300x154.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1d8328960629e1bdf60a5d8f6915beb297497f0c-300x154-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/SherburneCC_cropped-768x394.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-56cf3c8d1693f8f2b32f7f11af4dca5c8e2e4de9-768x394-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Shakopee_Minnesota_5-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-95632a941ed90e179613801db971f816e737d6ef-2560x1253-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Shakopee_Minnesota_5-300x147.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-48ccfca90c749e56e0d76e312aa78cb3904e671e-300x147-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Shakopee_Minnesota_5-1024x501.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-278194ed00a4a5fd13617392af4310bcaf2d4e25-1024x501-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Shakopee_Minnesota_5-768x376.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-94e9436cff8d30e632a475a2cc1532dadc92d993-768x376-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Shakopee_Minnesota_5-2048x1002.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-208d63c8073c203de523eec917933d11fd27212c-2048x1002-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Savage-1-300x224.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9e62ea29a5663669238f8be08321e7730a0d11d7-300x224-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Niningerch-300x173.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4396a17b2956795999671988949375d149ef05a3-300x173-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Niningerch-1024x590.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-30aade39eea9ade774f7cff69842092abe8911b8-1024x590-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Niningerch-768x443.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d66c29362fbcd2adc5b60e42c49b8e79262e17eb-768x443-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/New_Prague_Minnesota_5-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ec4ec9cddf0bc1e3d30871304c97fc7613328ca8-2560x1978-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/New_Prague_Minnesota_5-300x232.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-164cd4db7a91c86ae4b51b5a07764d8c9f8d4867-300x232-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/New_Prague_Minnesota_5-1024x791.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-36257dab9039b1ca66c0d5e7cb4debe9d6bae8f7-1024x791-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/New_Prague_Minnesota_5-768x593.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-dc0fd516e4b953694c65cf11c7dc91d0a1e0bbea-768x593-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/New_Prague_Minnesota_5-2048x1582.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-051f9b053db5e3aaa85bbf18c57ed05677e48ae7-2048x1582-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/6.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c943d4e9a5fa40533ee128fd003500ec0d39c7e0-1920x950-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/3.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2b764db88648fd3c4c1c6be71299ae976b77106b-1920x500-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-12.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a8af99a78a1059511166fb2ad7eec33cb6589126-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/5.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b99c609bba8109784dc4fd671ece8b6f2eb5b2c4-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/04/5-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ee3aa0068cb29debd993faa203a5ba14d2a20751-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-12-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-47a0191a917fe6f78d5c658df2d5e705056667e3-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-6.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-458c0c201a77b544cdaf3465d4726553ede8bfaf-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/roof-2.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c72c43262cce0853d14e1bf8996983b31bd1be29-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/roof-banner-1.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e41ea7dd1c32baa1a13acd4bcb50e6d23d7a8b50-1920x500-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/roof-2-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b6b734f4a8085d22f68122045db1677212287c8a-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-6-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c3c557a639ff66af17534cb55efee8ea7cf22fd1-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-1-8.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c062559d40a17f64c09a11f6c7b2abeb4a458725-1600x475-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-10.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-50e15f1e8680258c3938990d6327a9b4f1496e58-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-11.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a9a99bd7d58c6f081814b360cd19eeef181d520b-725x750-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-10-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-465d69383a064f29403dcfe7e8a6ca0626cd18f4-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/11/Cardinal-Website-Replacement-Photos-2-11-290x300.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-50d482bf32e0919a97c152364b4eb02cfe36d067-290x300-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Softball-Size-Hail-225x300.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-03f5ecbbb980d7a21162b6ebbf8837ea3cace2c9-225x300-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/St-Paul-And-Eastern-MN-Hail-Map-July-19-2024--768x488.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ae0cc2d0decab28b80ffc3cdd49f9b8825d522f4-768x488-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Storm-Southern-MN-768x632.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3deb55720f207102ea67464b62b8e84970c0c261-768x632-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/NW-Twin-Cities-Metro-and-Central-MN-Hail-Map-July-19-2024-768x694.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d2a6c77059c2ae822c5d516e7893b8c5d1cd742c-768x694-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Softball-Size-Hail-768x1024.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5c083b0796c7086905fed7921fc5ec2c338e6520-768x1024-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Softball-Size-Hail-1152x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a60fc9f06f8ef0616a90bf383eaa48512dc27654-1152x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Softball-Size-Hail.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d6cea28ad293f1488a4ad623c3a2716342ba0c2d-1500x2000-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/St-Paul-And-Eastern-MN-Hail-Map-July-19-2024--300x191.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-85ad478939025db851144981d7ac742fba781d45-300x191-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/St-Paul-And-Eastern-MN-Hail-Map-July-19-2024-.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-97a08f0587b9d9805c74248082474db0755ce338-826x525-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Storm-Southern-MN-300x247.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e37c2de42b80239aa13ad56cecd77aea5b359f05-300x247-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Storm-Southern-MN-1024x843.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-eede6a3dda113f7a4700d47cf0ea4d9f236d2305-1024x843-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Storm-Southern-MN.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f85ebbaf17096b2d509a443c5659618049cac88a-1048x863-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/NW-Twin-Cities-Metro-and-Central-MN-Hail-Map-July-19-2024-300x271.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d2fdef35eacbf024b16542283804002daf471211-300x271-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/NW-Twin-Cities-Metro-and-Central-MN-Hail-Map-July-19-2024-1024x925.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-26502b01ff50a62bf1cd6006e836d85663716e27-1024x925-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/NW-Twin-Cities-Metro-and-Central-MN-Hail-Map-July-19-2024.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-955f0955ec6e61eebd23546e5bf1a5a64080274e-1074x970-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1436px-St._Joseph_-_Miesville_Minnesota-1362x2048.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c573787803274d6b79c7b32287ec6ee6746cf3a2-1362x2048-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/03/banner.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d016da389d69fb60a7e46d30f44ccc10c8b022aa-1920x950-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1436px-St._Joseph_-_Miesville_Minnesota.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3a420c2ad972966cdad7a202f2ea5a97c98d4bbc-1436x2160-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1436px-St._Joseph_-_Miesville_Minnesota-199x300.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d9273e230337dfc5ad01f7c29b726e164a5ff7f2-199x300-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1436px-St._Joseph_-_Miesville_Minnesota-681x1024.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d1c7745713dafe28930a96d144a5f21546b75092-681x1024-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1436px-St._Joseph_-_Miesville_Minnesota-768x1155.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7406a90063a34a34076a28a06a7bd957d031345d-768x1155-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1436px-St._Joseph_-_Miesville_Minnesota-1021x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8b288562c70bccc6b2a5ee7ebaf90f7bbb4025ce-1021x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Trier-StMarys.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a3131aedc7149a87612f84eecb55f314e64c23ea-1053x1043-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Trier-StMarys-300x297.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-fbeafec0932b0e33016b9439d0febecbde70240c-300x297-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Trier-StMarys-1024x1014.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-24115190da0f934a439743c3f3928706e57c800e-1024x1014-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Trier-StMarys-150x150.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-47ae96d4d00514cc48ad7df1b2e1c2d9db11ff52-150x150-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Trier-StMarys-768x761.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-41a30aaa34caf3ee774ebf9b0f2a684ba558067c-768x761-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Trier-StMarys-140x140.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-87808b5e61a22938581a54ec8a7eaf989684ef80-140x140-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownNorthfield1-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6cb4b5f7000dd5090808f591f574f03370588363-2560x1702-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownNorthfield1-1536x1021.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-be8aa344743b75d34c4c348139359c12bf2aec30-1536x1021-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownNorthfield1-300x199.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-df991f931cf9e102901aaec56ee1ed262a253d05-300x199-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownNorthfield1-1024x681.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6987788f85eae00303e1ea2c3055368f859b4265-1024x681-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownNorthfield1-768x511.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d6c959edfd3a12d0afcd7e4b582f3b6032c95253-768x511-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/DowntownNorthfield1-2048x1362.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e71ed34af9afa4d553623faa829307e812049e88-2048x1362-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1582px-Rosemontmnwatertower.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ceaf6934d4a8a1437b33e5844f4c1bd0066552aa-1582x2160-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1582px-Rosemontmnwatertower-1500x2048.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8a06fc1f6b5c772be49fa354c8927f39e7c94cde-1500x2048-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1582px-Rosemontmnwatertower-220x300.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9ab78bbdad765c4287e13606ecded95b104fa531-220x300-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1582px-Rosemontmnwatertower-750x1024.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6af96be4753d2ccd7a9774c0584d242c11515358-750x1024-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1582px-Rosemontmnwatertower-768x1049.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0aed7a4204d1f263207e769e89e0d476cf3e6316-768x1049-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1582px-Rosemontmnwatertower-1125x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-16fc71a1987038dc37ce84cd9f534f126b45826c-1125x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/SSP_Grand_Ave.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-cdb9d855d4671dc1e063e49703b3cc21abe04933-2048x1400-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/SSP_Grand_Ave-1536x1050.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-31df5191351264de4f7ee611e00513043aa59cea-1536x1050-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/SSP_Grand_Ave-300x205.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c8e0e3ceee04e86c0a823da0d5e6bbcb116a568c-300x205-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/SSP_Grand_Ave-1024x700.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-309a0da41fea580dfd4f003501782d0a973a36eb-1024x700-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/SSP_Grand_Ave-768x525.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c8b8d2ab68b1412dd8fbcd697defa6a78aabff79-768x525-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1620px-West_St._Paul_MN.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-457de2eb875de627f66042c6617f42bd3d989eed-1620x1080-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1620px-West_St._Paul_MN-1536x1024.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6891aee9fe68db2e9a98a5d9160da93948baa8b1-1536x1024-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1620px-West_St._Paul_MN-300x200.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-02cb4c0250ff363276828c2d47deff1ad7fc0267-300x200-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1620px-West_St._Paul_MN-1024x683.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6a9ac1808e3f5f41b5a461b143f199d11480bc77-1024x683-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1620px-West_St._Paul_MN-768x512.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1f9a1fdf1c2b2ea6354ed5ef96ca7d98f48e026e-768x512-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1920px-2013-0326-SpencerBrookTH.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4f16e21cabf42fa51b62bfec8770efdc9f260fe4-1920x1080-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1920px-2013-0326-SpencerBrookTH-1536x864.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1d231041e01d98aee114a2adb2621d92f7c611f7-1536x864-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1920px-2013-0326-SpencerBrookTH-300x169.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7fdb5652c6d686efde097b856fdc33c6e89e8690-300x169-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1920px-2013-0326-SpencerBrookTH-1024x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-eb14e1a91a2ab25a8284f6c4b2136804c9b32f84-1024x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1920px-2013-0326-SpencerBrookTH-768x432.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7bbba6d50c2487dbf496bedff6b50c014c6ce107-768x432-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Isanti_Co_Courthouse_4-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9edf530ef5108e99382e31d2c5f12b0fa2d31d18-2560x1920-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Isanti_Co_Courthouse_4-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8d86793237f8752a29c884c2a8ed0046030ad700-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Isanti_Co_Courthouse_4-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-df9cdc87586ca74812535fca2bfb569b845f4b7f-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Isanti_Co_Courthouse_4-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-20b0f6a8c9c104844ed194ebd27128b94650d4fe-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Isanti_Co_Courthouse_4-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-53162bc5985755cfa7d2940beecb44aaf3f904ab-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Isanti_Co_Courthouse_4-2048x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0823e6009fc79c09c4d1960b0b4b7a0cc34375a3-2048x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1920px-Downtown_Forest_Lake.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5fc4c94bf7e3d98bffd7031a333a225f13d66170-1920x1080-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1920px-Downtown_Forest_Lake-1536x864.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4b2e395facec511f2de2552cf5e1f64e76f14a75-1536x864-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1920px-Downtown_Forest_Lake-300x169.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c681ba58131f04efa4ebcc5d3fea1641b48c68ca-300x169-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1920px-Downtown_Forest_Lake-1024x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2f7d5447cc6dbee35b3c699168e83fcc17502298-1024x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1920px-Downtown_Forest_Lake-768x432.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-88b13a5f7427ee9eb78efa8325dca4268f46d6fc-768x432-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1920px-Hugo_City_Hall.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f9ec65243d3b97905fd92fe3f24816ca49c9e1a3-1920x1080-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1920px-Hugo_City_Hall-1536x864.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-189783b04d032d1e307da569ffdd25a08e3a3fed-1536x864-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1920px-Hugo_City_Hall-300x169.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b3ae4a44f8689dba26aa85ea765dfa09761339d0-300x169-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1920px-Hugo_City_Hall-1024x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-605439588a4e22ec7ab9d083e7247620c0ee66de-1024x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1920px-Hugo_City_Hall-768x432.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b586d43904286ca8be0b15f07e732ba694b99d78-768x432-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1919px-Isanti_Minnesota_2018.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-fe952a52a7fa8855bdeb5ca1840121e3383d1bb6-1919x1080-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1919px-Isanti_Minnesota_2018-1536x864.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-96960235745d08a59798c3fd6333538b305ac7d9-1536x864-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1919px-Isanti_Minnesota_2018-300x169.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-187157179ffbc1f2454d072073eb53192a301928-300x169-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1919px-Isanti_Minnesota_2018-1024x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ce5a6ebbaa63c5989bda0c8612a86eac66f24b2d-1024x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1919px-Isanti_Minnesota_2018-768x432.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a777893b828531550b4b753dba3c35f3bf34af25-768x432-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Landfall-City-Hall.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-aa3f832b3663ac06e61524e40cdfcefb61e076aa-800x600-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Landfall-City-Hall-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-98bf79bb3602d5458bdbac82f8f0ae8d3e88d8d6-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Landfall-City-Hall-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-4ead2ec99c05a719666ab5dc58476b672348a7af-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/3240px-Gammelgarden_Museum_Scandia_Minnesota-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5ecc90921d4bcd9007f8ab5df946a3c7f3849730-2560x1707-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/3240px-Gammelgarden_Museum_Scandia_Minnesota-1536x1024.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-71a84e2b25ab34811ddc25260a195dc3d27d5047-1536x1024-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/3240px-Gammelgarden_Museum_Scandia_Minnesota-300x200.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c935de52474e61fbb1b9736f3acd7d5fbc9f4879-300x200-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/3240px-Gammelgarden_Museum_Scandia_Minnesota-1024x683.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6bdb7d3bc0d205ef0849262d81daa61ef716e4b2-1024x683-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/3240px-Gammelgarden_Museum_Scandia_Minnesota-768x512.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-cee89f023dce6ca21908ae4be6562fe0fe7b0891-768x512-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/3240px-Gammelgarden_Museum_Scandia_Minnesota-2048x1365.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f99e390f15d57b5a397a2e43cc3463cf879c951b-2048x1365-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Stillwater_Minnesota.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c073cb987fcfbda75f1556c445a56125ad4722e7-1600x1250-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Stillwater_Minnesota-1536x1200.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-afab6bb2858da900dade520bca347fe2caf4336f-1536x1200-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Stillwater_Minnesota-300x234.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c7482e4e20085275c4ddd4842b5a9689cbe92ce5-300x234-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Stillwater_Minnesota-1024x800.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-702192764fbc52405fe63c6c6d9292aac3519904-1024x800-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Stillwater_Minnesota-768x600.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2ca077148b1430b4098b43dae47a063ca9ad9f04-768x600-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/White-Bear-Lake-2.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6989b047b535c4977bc94bcfccc0b831230a4ea4-1500x2003-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/White-Bear-Lake-2-225x300.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1f28adb7c0f9c28ff8c603802bdbf5a7c2a34e2b-225x300-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/White-Bear-Lake-2-767x1024.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6fd45d1b2b975d9ca9c4830bb0e18c59e4dc1d91-767x1024-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/White-Bear-Lake-2-768x1026.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7fad0754dd5026664905c7c607119e178bef5d49-768x1026-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/White-Bear-Lake-2-1150x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-30141154b4a15a023fb85e3cf7f3fb0aa861a1cc-1150x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Woodbury_city_hall_new-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-29f3daf372a4699b28514c73364a5263b58e9106-2560x1920-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Woodbury_city_hall_new-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-05efcd719f9a51970eb052c20d76a5382799df6f-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Woodbury_city_hall_new-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-08f188ea0897c0117507bb929765ff5acf5e4162-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Woodbury_city_hall_new-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0fc92656f30e2cd69f65625f25e7e43c821313c4-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Woodbury_city_hall_new-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-28fee15aa3420d7ca0191fd2407437da0a22a3e5-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Woodbury_city_hall_new-2048x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-73add63e264af3810c92c22028160b68c8ba4085-2048x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Afton_City_Hall.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c5681a3ab6edb6bc8942db883fe99de196ceb43a-800x500-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Afton_City_Hall-300x188.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5eda60b576dda7e4773de940b9f8f1ef42f6fe5e-300x188-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Afton_City_Hall-768x480.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2f54f68d6dab509214734057b90ed4b619accb43-768x480-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Becker-1.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-623815b02bb43853c068a0e5db4563ccc2b69260-381x285-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Becker-1-300x224.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a005b48b2623c91e0bf19337433c539f6b2f6acf-300x224-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Lakeside_Park_2018-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-a8ff7315174fb6121288ca173fdd5fdb71a77297-2560x1829-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Lakeside_Park_2018-1536x1097.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-328574226fd26dd1d877a354a3c5e79dfcdda2f5-1536x1097-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Lakeside_Park_2018-300x214.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-065bcebafb037ec3a2f4991c891224a0d7bbd714-300x214-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Lakeside_Park_2018-1024x731.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-dab09f178de1fa013da1c74c66657e7e2552f3ec-1024x731-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Lakeside_Park_2018-768x549.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-8db83576ec4fafef07b2e62d300d12d48783552f-768x549-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Lakeside_Park_2018-2048x1463.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-240327a5f9a70b32f1beb75c7b0638323f85d672-2048x1463-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Clear_Lake_MN_McDonalds_Meats-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c4998d0abfae1d3de5f0e9768ea436fe84852b3e-2560x1129-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Clear_Lake_MN_McDonalds_Meats-1536x677.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c23fd9342b4d4869f5cbc2fbf1485d58a4323408-1536x677-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Clear_Lake_MN_McDonalds_Meats-300x132.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-78f8f2d66464a651e00e3f3c03153c2b2e532a7b-300x132-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Clear_Lake_MN_McDonalds_Meats-1024x451.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-adb0f9a9a4028376eadf0b3f118363bfab27d8c8-1024x451-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Clear_Lake_MN_McDonalds_Meats-768x339.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-1e63819973f1ca7eed40c78548842bc4d2ed716e-768x339-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Clear_Lake_MN_McDonalds_Meats-2048x903.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-796ee680f33b33cbd1e86b99b78036544892b18d-2048x903-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Cordenio_Severance_House.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-03df6d03221951690d53ac4d09c5d1abc0d0f6e4-1024x527-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Cordenio_Severance_House-300x154.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6f0ae1ca0b6f0664163eabc44335bbe4027db8a3-300x154-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Cordenio_Severance_House-768x395.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-358e9afdcf11594293f931f6a7c2fda85b22f49d-768x395-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-19.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-af1c5cc5f052e3f4e66e6190f69382ed457fa319-1200x840-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-19-300x210.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2ea5f83bb1d4615b2a3c68b21851a39126cafd68-300x210-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-19-1024x717.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e58ffb886f9d675441d20a3354d0be604cf2042e-1024x717-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-19-768x538.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-25cb7d860bedd41adb61a806504d1f9c00e0161c-768x538-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mahtomedi_Water_Tower_Sunset_Minnesota_2201388568_o-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-be2ababae8de7b79419047c29f95e22f6e79ea63-2560x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mahtomedi_Water_Tower_Sunset_Minnesota_2201388568_o-1536x922.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-da42e6ab3b01e8e1417c4240783267ae61497a7b-1536x922-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mahtomedi_Water_Tower_Sunset_Minnesota_2201388568_o-300x180.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d9e34830bda08eb863fe34c948a2498c6b237070-300x180-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mahtomedi_Water_Tower_Sunset_Minnesota_2201388568_o-1024x614.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c816a0e8861af6fbe12d1d3ff58467c97faa5072-1024x614-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mahtomedi_Water_Tower_Sunset_Minnesota_2201388568_o-768x461.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d1de23b13552199d81c3c1d5faab4ef131b40ff6-768x461-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Mahtomedi_Water_Tower_Sunset_Minnesota_2201388568_o-2048x1229.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5df2156f40e235d4e93c0353d1ee33a96319aaaa-2048x1229-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Marine_on_St_Croix_01-e1724348687471.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-cc9e19275c3a3a035f7ba2b3e8c7729d5e89f854-1222x1063-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Marine_on_St_Croix_01-e1724348687471-300x261.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-7e611b9cceee90952f51aba2b04b2768a21d1bab-300x261-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Marine_on_St_Croix_01-e1724348687471-1024x891.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b3227d3cb8e7bba228fe35abaf8dccdc4e4a767d-1024x891-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/Marine_on_St_Croix_01-e1724348687471-768x668.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ff8d1112c8bc6ae6375eda3b85bdbf47dd8bb484-768x668-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/GN_Depot_Princeton_3.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-51d327431fa5f21495a442b2d14d3da76ffd9eea-1600x1200-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/GN_Depot_Princeton_3-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d6875209bd0a531bf67cb312f045d4b8c29d2011-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/GN_Depot_Princeton_3-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-e5515ac9738654afbaf1b807794a6682d5799d95-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/GN_Depot_Princeton_3-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f0d3da22ce0e394d2149a447bd59579533d1cb6f-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/GN_Depot_Princeton_3-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3c3fdf78da5995d15f444b4b292a4c1e0bc621f5-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/5th_Ave_Commercial_Bldgs_3-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3833fdf9d1888c4457345e77bb1fd0a7c462bf8d-2560x1920-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/5th_Ave_Commercial_Bldgs_3-1536x1152.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-fe4ed6d62103fd6c2e65b2f862e70390f0ab724e-1536x1152-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/5th_Ave_Commercial_Bldgs_3-300x225.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c71c3e3dc02aec92757fcd15f6fb7cddf7b8d78b-300x225-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/5th_Ave_Commercial_Bldgs_3-1024x768.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-870009cbdffaf711b86efb465ba099e8fbfc11e1-1024x768-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/5th_Ave_Commercial_Bldgs_3-768x576.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-9e7fb4f77542bd9b60b7aee65dd640bdace0d279-768x576-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/5th_Ave_Commercial_Bldgs_3-2048x1536.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-5944fbf0a164c347176b9e33bc3b0219aa0a5b8c-2048x1536-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/WaterTowerZimmermanMN-scaled.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-765cae7e4fdee0bb081550fc6c43bd9329c74380-2560x2048-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/WaterTowerZimmermanMN-1536x1229.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-6b16a4228c68943cac0aa3c68c0196dc485bc35a-1536x1229-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/WaterTowerZimmermanMN-300x240.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-ccebaa427fb91445d9375af09ddea34bb48e3a7f-300x240-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/WaterTowerZimmermanMN-1024x819.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-22c27e043f790c4c90a13c8de63ad94baa736cdf-1024x819-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/WaterTowerZimmermanMN-768x615.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-3f1cb644ac66e142e359775d3912c155e72be267-768x615-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/WaterTowerZimmermanMN-2048x1639.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-d117305a6b7dcecf625806c9b4428a75861584d2-2048x1639-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-18.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-c9e091b60987be16d96d2e49727b9e6a80179c24-1200x840-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-18-300x210.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-01d126230e0237e153d34df616ca9febbba97681-300x210-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-18-1024x717.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-02b5eb9f2c3f5366088547c899ef75e38099405a-1024x717-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/1200-x-840-2-18-768x538.png": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-b23f2f2614e3c2be2c9b92a44ff274df1b73c4d5-768x538-png"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/JordanCH.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-2fe9f753c648e2bc40cb5d2e9381b9e1151a58f3-1209x845-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/JordanCH-300x210.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-362ae2100d389794bf1e42a06c89cce8c46c7949-300x210-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/JordanCH-1024x716.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-0039474f438eb0ef87b9d663b7127c091679a442-1024x716-jpg"
+    }
+  },
+  "https://cardinalexteriors.com/wp-content/uploads/2024/07/JordanCH-768x537.jpg": {
+    "_type": "image",
+    "asset": {
+      "_type": "reference",
+      "_ref": "image-f1bdebe85d9324ec7393d1e99a0fb2da0c5df7d7-768x537-jpg"
+    }
+  }
+}
